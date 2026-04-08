@@ -1,6 +1,6 @@
 #define IR_SENSOR_RIGHT 11
 #define IR_SENSOR_LEFT 12
-#define MOTOR_SPEED 180
+#define MOTOR_SPEED 200
 
 //Right motor
 int enableRightMotor=6;
